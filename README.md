@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cro Hunter</h1>
+<h1 align="center">Hi 👋, I'm Sujan Shrestha</h1>
 <h3 align="center">Transforming Ideas into Digital Reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crohunter&label=Profile%20views&color=0e75b6&style=flat" alt="crohunter" /> </p>
