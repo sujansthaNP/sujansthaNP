@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crohunter" alt="crohunter" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Tech Field**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligent**
 
