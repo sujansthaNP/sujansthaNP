@@ -16,7 +16,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/crohunter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bigdawgsujan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdawgsujan&show_icons=true&locale=en&layout=compact" alt="bigdawgsujan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdawgsujan&show_icons=true&locale=en&layout=compact" alt="bigdawgsujan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigdawgsujan&show_icons=true&locale=en" alt="bigdawgsujan" /></p>
 
