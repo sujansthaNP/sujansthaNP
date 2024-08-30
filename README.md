@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligent**
+- 🌱 I’m currently learning **Machine Learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
