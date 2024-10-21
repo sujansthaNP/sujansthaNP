@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujansthaNP" alt="sujansthaNP" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujansthaNP&show_icons=true&locale=en&layout=compact" alt="sujansthaNP" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujansthaNP&show_icons=true&locale=en" alt="sujansthaNP" /></p>
